@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
    <title>Tags on RCBC Computer Science Club</title>
-   <link>https://example.org/tags/</link>
+   <link>https://rcbc-computer-science-club.github.io/website/tags/</link>
    <description>Recent content in Tags on RCBC Computer Science Club</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
    
-       <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="https://rcbc-computer-science-club.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>
        <title>My First Post</title>
-       <link>https://example.org/posts/my-first-post/</link>
+       <link>https://rcbc-computer-science-club.github.io/website/posts/my-first-post/</link>
        <pubDate>Tue, 28 Jan 2025 14:58:33 -0500</pubDate>
        
-       <guid>https://example.org/posts/my-first-post/</guid>
+       <guid>https://rcbc-computer-science-club.github.io/website/posts/my-first-post/</guid>
        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&lt;p&gt;Learning how to use and setup hugo&lt;/p&gt;</description>
      </item>
    
