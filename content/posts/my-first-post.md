@@ -12,3 +12,5 @@ draft = false
 This is **bold** text, and this is *emphasized* text.
 
 Learning how to use and setup hugo
+
+Test
