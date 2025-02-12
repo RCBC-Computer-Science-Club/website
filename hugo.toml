@@ -2,3 +2,8 @@ baseURL = 'https://rcbc-computer-science-club.github.io/website/' # Will need to
 languageCode = 'en-us'
 title = 'RCBC Computer Science Club'
 theme = 'club-theme'
+[params]
+  imageDir = './'
+  navImage = 'computer_science_club_oneline_black.png'
+  footerTitle = 'Our Mission'
+  footerDescription = 'The Computer Science Club is focused on providing opportunities for students to learn about computer science and technology.'
