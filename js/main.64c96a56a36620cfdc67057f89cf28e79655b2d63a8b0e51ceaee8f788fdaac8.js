@@ -1,0 +1,1 @@
+(()=>{document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll(".dropdown").forEach(e=>{let n=e.querySelector(".dropdown-menu");e.addEventListener("mouseenter",function(){n.classList.add("show")}),e.addEventListener("mouseleave",function(){n.classList.remove("show")})})});})();
