@@ -1,4 +1,4 @@
 baseURL = 'https://rcbc-computer-science-club.github.io/website/' # Will need to be changed when we get a actual domain
 languageCode = 'en-us'
 title = 'RCBC Computer Science Club'
-theme = 'kiera'
+theme = 'club-theme'
